@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hi, I'm Saurabh <img src="pikachu.gif" width="40"></h1>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=squared-bold&logoWidth=30">](https://www.linkedin.com/in/saurabh-varunkar-b616a6265/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat&logoWidth=30">](https://www.linkedin.com/in/saurabh-varunkar-b616a6265/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&style=plastic&logoWidth=30">]()
 
 <img src="banner.png" width="500">
