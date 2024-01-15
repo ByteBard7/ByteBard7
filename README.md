@@ -61,5 +61,6 @@ I'm a Full Stack Developer from India passionate about technology and web develo
 </details>
 <br>
 <hr>
-<h2>Random Dev Meme</h2>
+
+<h2 align="center">Dev Memes</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
