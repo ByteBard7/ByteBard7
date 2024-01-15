@@ -6,7 +6,7 @@
 <h1 align="center"> Hi, I'm Saurabh <img src="pikachu.gif" width="40"></h1>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat&logoWidth=30">](https://www.linkedin.com/in/saurabh-varunkar-b616a6265/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&style=plastic&logoWidth=30">]()
+[<img src="https://img.shields.io/badge/-Portfolio-2F4F4F?logo=portfolio&logoColor=white&style=flat&logoWidth=30">]()
 
 <img src="banner.png" width="500">
 
@@ -20,16 +20,16 @@
 
 <h1 align="center"> Languages and Tools <img src="tools.gif" width="30">:</h1>
 <div display="flex">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&style=flat&logoWidth=30">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=flat&logoWidth=30">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat&logoWidth=30">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&style=flat&logoWidth=30">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat&logoWidth=30">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat&logoWidth=30">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&style=flat&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&style=flat&logoWidth=30"/>
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white&style=flat&logoWidth=30"/>
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat&logoWidth=30"/>
+  <img src="https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=ebebeb&style=flat&logoWidth=30">
+  <img src="https://img.shields.io/badge/-CSS3-264de4?logo=css3&logoColor=white&style=flat&logoWidth=30">
+  <img src="https://img.shields.io/badge/-Javascript-F0DB4F?logo=javascript&logoColor=323330&style=flat&logoWidth=30">
+  <img src="https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=FFD43B&style=flat&logoWidth=30">
+  <img src="https://img.shields.io/badge/-Linux-ffcc33?logo=linux&logoColor=black&style=flat&logoWidth=30">
+  <img src="https://img.shields.io/badge/-PostgreSQL-0064a5?logo=postgresql&logoColor=white&style=flat&logoWidth=30">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat&logoWidth=30"/>
+  <img src="https://img.shields.io/badge/-GitHub-36454F?logo=github&logoColor=white&style=flat&logoWidth=30"/>
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat&logoWidth=30"/>
+ <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat&logoWidth=30"/>
 </div>
 
 <br>
@@ -37,12 +37,12 @@
 
 <h1 align="center">Gaming <img src="games.gif" width="30">:</h1>
 <div display="flex">
-  <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&style=flat&logoWidth=30" />
-  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white&style=flat&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-Steam-2F4F4F?logo=steam&logoColor=white&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-Epic%20Games-2F4F4F?logo=epic-games&logoColor=white&style=flat&logoWidth=30"/>
+  <img src="https://img.shields.io/badge/-Valorant-2F4F4F?logo=valorant&logoColor=white&style=flat&logoWidth=30" />
 
-  <img src="https://img.shields.io/badge/PUBG-%23000000.svg?&style=for-the-badge&style=flat&logoWidth=30" />
-  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-PUBG-2F4F4F?logo=pubg&logoColor=white&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-Counter%20Strike-2F4F4F?logo=counter-strike&logoColor=white&style=flat&logoWidth=30" />
 </div>
 <br>
 <hr>
