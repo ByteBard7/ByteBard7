@@ -6,7 +6,7 @@
 <h1 align="center"> Hi, I'm Saurabh <img src="pikachu.gif" width="40"></h1>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat&logoWidth=30">](https://www.linkedin.com/in/saurabh-varunkar-b616a6265/)
-[<img src="https://img.shields.io/badge/-Portfolio-2F4F4F?logo=portfolio&logoColor=white&style=flat&logoWidth=30">]()
+[<img src="https://img.shields.io/badge/-Portfolio-36454F?logo=portfolio&logoColor=white&style=flat&logoWidth=30">]()
 
 <img src="banner.png" width="500">
 
@@ -37,12 +37,12 @@
 
 <h1 align="center">Gaming <img src="games.gif" width="30">:</h1>
 <div display="flex">
-  <img src="https://img.shields.io/badge/-Steam-2F4F4F?logo=steam&logoColor=white&style=flat&logoWidth=30" />
-  <img src="https://img.shields.io/badge/-Epic%20Games-2F4F4F?logo=epic-games&logoColor=white&style=flat&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Valorant-2F4F4F?logo=valorant&logoColor=white&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-Steam-36454F?logo=steam&logoColor=white&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-Epic%20Games-36454F?logo=epic-games&logoColor=white&style=flat&logoWidth=30"/>
+  <img src="https://img.shields.io/badge/-Valorant-36454F?logo=valorant&logoColor=white&style=flat&logoWidth=30" />
 
-  <img src="https://img.shields.io/badge/-PUBG-2F4F4F?logo=pubg&logoColor=white&style=flat&logoWidth=30" />
-  <img src="https://img.shields.io/badge/-Counter%20Strike-2F4F4F?logo=counter-strike&logoColor=white&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-PUBG-36454F?logo=pubg&logoColor=white&style=flat&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-Counter%20Strike-36454F?logo=counter-strike&logoColor=white&style=flat&logoWidth=30" />
 </div>
 <br>
 <hr>
