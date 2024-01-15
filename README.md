@@ -3,7 +3,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
-# Hi, I'm Saurabh <img src="Pikachu.gif" width="40">
+# Hi, I'm Saurabh <img src="pikachu.gif" width="40">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/saurabh-varunkar-b616a6265/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]()
