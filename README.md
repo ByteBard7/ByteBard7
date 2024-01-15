@@ -22,7 +22,7 @@
 <div display="flex">
   <img src="https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=ebebeb&style=flat&logoWidth=30">
   <img src="https://img.shields.io/badge/-CSS3-264de4?logo=css3&logoColor=white&style=flat&logoWidth=30">
-  <img src="https://img.shields.io/badge/-Javascript-FFD43B?logo=javascript&logoColor=323330&style=flat&logoWidth=30">
+  <img src="https://img.shields.io/badge/-Javascript-FFD43B?logo=javascript&logoColor=black&style=flat&logoWidth=30">
   <img src="https://img.shields.io/badge/-Python-0064a5?logo=python&logoColor=FFD43B&style=flat&logoWidth=30">
   <img src="https://img.shields.io/badge/-Linux-ffcc33?logo=linux&logoColor=black&style=flat&logoWidth=30">
   <img src="https://img.shields.io/badge/-PostgreSQL-0064a5?logo=postgresql&logoColor=white&style=flat&logoWidth=30">
