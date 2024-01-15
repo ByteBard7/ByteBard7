@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-0064a5?logo=postgresql&logoColor=white&style=flat&logoWidth=30">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat&logoWidth=30"/>
   <img src="https://img.shields.io/badge/-GitHub-36454F?logo=github&logoColor=white&style=flat&logoWidth=30"/>
-<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat&logoWidth=30"/>
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat&logoWidth=30"/>
 </div>
 
