@@ -58,5 +58,5 @@
 </details>
 <br>
 <hr>
-<h1 align="center">Dev Memes<img src="memes.gif" width="30"></h1>
+<h1 align="center">Dev Memes <img src="memes.gif" width="30"></h1>
 <h1 align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></h1>
