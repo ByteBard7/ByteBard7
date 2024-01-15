@@ -10,7 +10,7 @@
 
 <img src="banner.png" width="500">
 
-<i>I'm a Full Stack Developer from India passionate about technology and web development. Here are some of my key skills:</i>
+<i>I'm a Full Stack Developer from India passionate about technology and web development.</i>
 
 <i> •🚀 Currently working on enhancing my Full Stack skills <br>
 •🌱 Learning and exploring new technologies in the web development space <br>
