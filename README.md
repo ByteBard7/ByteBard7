@@ -5,8 +5,10 @@
 
 <h1 align="center"> Hi, I'm Saurabh <img src="pikachu.gif" width="40"></h1>
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat&logoWidth=30" align ="center">](https://www.linkedin.com/in/contactsaurabhvarunkar)
-[<img src="https://img.shields.io/badge/-Portfolio-36454F?logo=portfolio&logoColor=white&style=flat&logoWidth=30" align="center">]()
+<p align="center">
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat&logoWidth=30">](https://www.linkedin.com/in/contactsaurabhvarunkar)
+[<img src="https://img.shields.io/badge/-Portfolio-36454F?logo=portfolio&logoColor=white&style=flat&logoWidth=30">]()
+</p>
 
 <img src="banner.png" width="100%">
 
