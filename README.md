@@ -1,5 +1,5 @@
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </p>
 <hr>
 
@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat&logoWidth=30">](https://www.linkedin.com/in/contactsaurabhvarunkar)
 [<img src="https://img.shields.io/badge/-Portfolio-36454F?logo=portfolio&logoColor=white&style=flat&logoWidth=30">]()
 
-<img src="banner.png" width="500">
+<img src="banner.png" width="100%">
 
 <i>I'm a Full Stack Developer from India passionate about technology and web development.</i>
 
