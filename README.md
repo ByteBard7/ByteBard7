@@ -19,7 +19,7 @@
 <hr>
 
 <h1 align="center"> Tech Stack <img src="tools.gif" width="30">:</h1>
-<div display="flex">
+<div display="flex" align="center" >
   <img src="https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=ebebeb&style=flat&logoWidth=30">
   <img src="https://img.shields.io/badge/-CSS3-264de4?logo=css3&logoColor=white&style=flat&logoWidth=30">
   <img src="https://img.shields.io/badge/-Javascript-FFD43B?logo=javascript&logoColor=black&style=flat&logoWidth=30">
@@ -35,7 +35,7 @@
 <hr>
 
 <h1 align="center">Gaming <img src="games.gif" width="30">:</h1>
-<div display="flex">
+<div display="flex" align="center">
   <img src="https://img.shields.io/badge/-Steam-36454F?logo=steam&logoColor=white&style=flat&logoWidth=30" />
   <img src="https://img.shields.io/badge/-Epic%20Games-36454F?logo=epic-games&logoColor=white&style=flat&logoWidth=30"/>
   <img src="https://img.shields.io/badge/-Valorant-36454F?logo=valorant&logoColor=white&style=flat&logoWidth=30" />
