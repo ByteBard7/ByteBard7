@@ -1,4 +1,3 @@
-
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </p>
@@ -8,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/contactsaurabhvarunkar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat&logoWidth=30"></a>
-<!-- <a href=""><img src="https://img.shields.io/badge/-Portfolio-36454F?logo=portfolio&logoColor=white&style=flat&logoWidth=30"></a> -->
+<a href="https://www.frontendmentor.io/profile/Coolgorithm"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=flat"></a> 
 </p>
 
 <img src="banner.png" width="100%">
