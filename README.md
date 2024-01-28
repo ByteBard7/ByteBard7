@@ -51,7 +51,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=coolgorithm&theme=midnight-purplehide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=coolgorithm&theme=midnight-purple&hide_border=true">
 </details>
 <details>
   <summary>:zap: Github Streak</summary>
