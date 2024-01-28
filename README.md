@@ -49,14 +49,17 @@
 <br>
 <hr>
 
-<details>
+<details align="center">
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=coolgorithm&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=coolgorithm&theme=midnight-purple">
 </details>
-<details>
-
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolgorithm&theme=blue-green">
+<details align="center">
+  <summary>:zap: Github Streak</summary>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coolgorithm&theme=midnight-purple&hide_border=true">
+</details>
+<details align="center">
+<summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolgorithm&theme=midnight-purple">
 </details>
 <br>
 <hr>
