@@ -51,17 +51,13 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=coolgorithm&theme=midnight-purple&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=bytebard7&theme=midnight-purple&hide_border=true">
 </details>
 <details>
   <summary>:zap: Github Streak</summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coolgorithm&theme=midnight-purple&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bytebard7&theme=midnight-purple&hide_border=true">
 </details>
 <details>
 <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolgorithm&theme=midnight-purple&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebard7&theme=midnight-purple&hide_border=true">
 </details>
-<br>
-<hr>
-<h1 align="center">Dev Memes <img src="memes.gif" width="30"></h1>
-<h1 align="center"><img src='https://randommeme-five.vercel.app/' style="height: 300px;"/></h1>
