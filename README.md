@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/contactsaurabhvarunkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
-<a href="https://www.frontendmentor.io/profile/Coolgorithm"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=flat"></a> 
+<a href="https://www.frontendmentor.io/profile/bytebard7"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=flat"></a> 
 <!-- <a href=""><img src="https://img.shields.io/badge/-🖥️   %20Portfolio-grey?logo=portfolio&logoColor=white&style=flat&logoWidth=30"></a> -->
 </p>
 
