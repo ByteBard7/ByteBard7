@@ -6,8 +6,8 @@
 <h1 align="center"> Hi, I'm Saurabh <img src="pikachu.gif" width="40"></h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/contactsaurabhvarunkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href="https://www.frontendmentor.io/profile/bytebard7"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/contactsaurabhvarunkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white"></a>
+<a href="https://www.frontendmentor.io/profile/bytebard7"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=flat&logo=Frontend-Mentor&logoColor=white"></a> 
 <!-- <a href=""><img src="https://img.shields.io/badge/-🖥️   %20Portfolio-grey?logo=portfolio&logoColor=white&style=flat&logoWidth=30"></a> -->
 </p>
 
@@ -23,17 +23,17 @@
 
 <h1 align="center"> Tech Stack <img src="tools.gif" width="30">:</h1>
 <div display="flex" align="center" >
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
 
 </div>
 
@@ -42,12 +42,12 @@
 
 <h1 align="center">Gaming <img src="games.gif" width="30">:</h1>
 <div display="flex" align="center">
-  <img src="https://img.shields.io/badge/Steam-313131.svg?style=for-the-badge&logo=Steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Valorant-FA4454.svg?style=for-the-badge&logo=Valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-313131.svg?style=flat&logo=Steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=flat&logo=Epic-Games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valorant-FA4454.svg?style=flat&logo=Valorant&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/PUBG-FEAB02.svg?style=for-the-badge&logo=PUBG&logoColor=white" />
-  <img src="https://img.shields.io/badge/CounterStrike-313131.svg?style=for-the-badge&logo=Counter-Strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUBG-FEAB02.svg?style=flat&logo=PUBG&logoColor=white" />
+  <img src="https://img.shields.io/badge/CounterStrike-313131.svg?style=flat&logo=Counter-Strike&logoColor=white" />
 </div>
 <br>
 <hr>
