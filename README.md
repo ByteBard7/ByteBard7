@@ -45,8 +45,6 @@
   <img src="https://img.shields.io/badge/Steam-313131.svg?style=flat&logo=Steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=flat&logo=Epic-Games&logoColor=white"/>
   <img src="https://img.shields.io/badge/Valorant-FA4454.svg?style=flat&logo=Valorant&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PUBG-FEAB02.svg?style=flat&logo=PUBG&logoColor=white" />
   <img src="https://img.shields.io/badge/CounterStrike-313131.svg?style=flat&logo=Counter-Strike&logoColor=white" />
 </div>
 <br>
