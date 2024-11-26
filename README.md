@@ -30,7 +30,7 @@
 <img src = "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" >
 <img src = "https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" >
 <Img src = "https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white"/>
